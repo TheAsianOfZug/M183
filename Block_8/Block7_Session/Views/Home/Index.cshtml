@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<form method="post" action="Home/Login" class="well col-lg-8 col-lg-offset-2">
+    <br />
+    <label for="username">Username</label>
+    <input type="text" name="username" class="form-control" />
+    <br />
+
+    <label for="password">Passwort:</label>
+    <input type="password" name="password" class="form-control" />
+    <br />
+
+    <label for="eingeloggtbleiben">Eingeloggt Bleiben? (J/N)</label>
+    <input type="text" name="eingeloggtbleiben" />
+    <br />
+
+    <input type="submit" class="btn btn-primary" value="Login"/>
+</form>
