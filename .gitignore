@@ -6,6 +6,7 @@
 /Block_4/Block4_SMS_OTP/bin
 /Block_4/Block4_SMS_OTP/obj
 /Block_4/obj
+
 /Block_6/.vs
 /Block_6/Block6_SSO/bin
 /Block_6/Block6_SSO/obj
@@ -16,6 +17,15 @@
 /Block_8/Block7_Session/obj
 /Block_8/obj
 
+/Block_10/M183-SQL Injection/.vs
+/Block_10/M183-SQL Injection/M183-TwoWayAuth/bin
+/Block_10/M183-SQL Injection/M183-TwoWayAuth/obj
+
+/Block_11/.vs
+/Block_11/Block11_rolebaseAuthentication/bin
+/Block_11/Block11_rolebaseAuthentication/obj
+/Block_11/obj
+
 /Block_12/.vs
 /Block_12/Block12_SQLInjection/bin
 /Block_12/Block12_SQLInjection/obj
@@ -25,8 +35,3 @@
 /Block_16/Block16_Logging/bin
 /Block_16/Block16_Logging/obj
 /Block_16/obj
-
-/Block_11/.vs
-/Block_11/Block11_rolebaseAuthentication/bin
-/Block_11/Block11_rolebaseAuthentication/obj
-/Block_11/obj
